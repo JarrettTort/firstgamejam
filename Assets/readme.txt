@@ -1,0 +1,1 @@
+drop the assets folder into the assets folder of your project and it should be enough, textmesh pro may need to be installed
